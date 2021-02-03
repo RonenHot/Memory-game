@@ -1,0 +1,6 @@
+C:\Users\R0nen\source\C#\B20 Ex05 RonenHotyanov 316273655 ChenLugasi 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\bin\Debug\B20 Ex02 Ronen 316273655 Chen 312608417.exe
+C:\Users\R0nen\source\C#\B20 Ex05 RonenHotyanov 316273655 ChenLugasi 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\bin\Debug\B20 Ex02 Ronen 316273655 Chen 312608417.pdb
+C:\Users\R0nen\source\C#\B20 Ex05 RonenHotyanov 316273655 ChenLugasi 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\obj\Debug\xx.csprojAssemblyReference.cache
+C:\Users\R0nen\source\C#\B20 Ex05 RonenHotyanov 316273655 ChenLugasi 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\obj\Debug\xx.csproj.CoreCompileInputs.cache
+C:\Users\R0nen\source\C#\B20 Ex05 RonenHotyanov 316273655 ChenLugasi 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\obj\Debug\B20 Ex02 Ronen 316273655 Chen 312608417.exe
+C:\Users\R0nen\source\C#\B20 Ex05 RonenHotyanov 316273655 ChenLugasi 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\B20 Ex02 Ronen 316273655 Chen 312608417\obj\Debug\B20 Ex02 Ronen 316273655 Chen 312608417.pdb

@@ -1,0 +1,10 @@
+﻿==========================Exercise Checking Report========================== 
+Exercise No...........: 2
+First Student Details.: 312608417 - Chen Lugasi
+Second Student Details: 316273655 - Ronen Hotyanov
+Delivery Date.........: 01- June - 2020
+Delivered In Delay....: Yes
+Delay Reason..........: Forgot to add the text file and to check name validation
+Visual Studio Version.: 2017
+Comments..............: \
+========================End Exercise Checking Report========================
