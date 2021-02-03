@@ -1,2 +1,2 @@
 # Memory-game
-Homework as part of a .Net Framework course, window application technology using delegates. The player can choose to play versus the computer, or with another friend. A pair of pictures in each game, drawn from a site that contains pictures. The computer was implemented via AI.
+Homework as part of a .Net Framework course, windows application technology using delegates. The player can choose to play versus the computer, or with another friend. The computer was implemented via AI. The exercise in the beginning was created for console application, and later was evolved for windows application. A pair of pictures in each game, drawn from a site that contains pictures.
